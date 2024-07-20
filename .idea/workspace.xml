@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12e83113-a62c-4442-bb0c-8a2f031d8401" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ConspectM1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module1hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/module1hard.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +51,7 @@
     "Python.ConcpectStringsProgramOrganise.executor": "Run",
     "Python.ConcpectTuple.executor": "Run",
     "Python.ConspectDictionariesAndSets.executor": "Run",
+    "Python.ConspectM1.executor": "Run",
     "Python.ConspectStrings.executor": "Run",
     "Python.homework3.executor": "Run",
     "Python.homework4.executor": "Run",
