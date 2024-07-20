@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12e83113-a62c-4442-bb0c-8a2f031d8401" name="Changes" comment="" />
+    <list default="true" id="12e83113-a62c-4442-bb0c-8a2f031d8401" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ConspectDictionariesAndSets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,10 +51,12 @@
     "Python.ConcpectList.executor": "Run",
     "Python.ConcpectStringsProgramOrganise.executor": "Run",
     "Python.ConcpectTuple.executor": "Run",
+    "Python.ConspectDictionariesAndSets.executor": "Run",
     "Python.ConspectStrings.executor": "Run",
     "Python.homework3.executor": "Run",
     "Python.homework4.executor": "Run",
     "Python.homework5.executor": "Run",
+    "Python.homework6.executor": "Run",
     "Python.task1.executor": "Run",
     "Python.task2.executor": "Run",
     "Python.variable.executor": "Run",
