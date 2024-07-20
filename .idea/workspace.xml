@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12e83113-a62c-4442-bb0c-8a2f031d8401" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ConspectDictionariesAndSets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Types.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1hard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +57,7 @@
     "Python.homework4.executor": "Run",
     "Python.homework5.executor": "Run",
     "Python.homework6.executor": "Run",
+    "Python.module1hard.executor": "Run",
     "Python.task1.executor": "Run",
     "Python.task2.executor": "Run",
     "Python.variable.executor": "Run",
@@ -105,5 +106,16 @@
       <updated>1721450184917</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
